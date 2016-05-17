@@ -1,4 +1,3 @@
-'
 <pre>
 <%
 q = Request.QueryString("x")(1)
